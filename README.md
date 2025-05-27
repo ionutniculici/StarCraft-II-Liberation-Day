@@ -38,7 +38,7 @@ This game respects the **StarCraft range rules**:
 
 ---
 
-## 🖱 PC Version
+## 🖥️ PC Version
 **Controls:**
 - Move: `WASD`
 - Shoot: `Left Mouse Button`
@@ -47,7 +47,7 @@ This game respects the **StarCraft range rules**:
 
 ---
 
-## 🕶 VR Version
+## 🥽 VR Version
 > ⚠️ **DISCLAIMER 1**: This is **not a standalone build** — it requires a **VR-ready PC**.  
 > ⚠️ **DISCLAIMER 2**: This version was only tested on a **Meta Quest 2 via Oculus Link**. Although it uses Unity's **XR Interaction Toolkit** (which supports a variety of headsets), compatibility with other devices is not guaranteed.
 
