@@ -1,4 +1,4 @@
-# StarCraft II Wings of Liberty: Liberation-Day Fan-Made Remake (Release Builds)
+# StarCraft II Wings of Liberty: Liberation Day Fan-Made Remake (Release Builds)
 
 Welcome to the **Liberation Day** release page! This GitHub repository contains the compiled **PC and VR builds** of my fan-made remake of the **"Liberation Day"** mission from *StarCraft II: Wings of Liberty*.
 
